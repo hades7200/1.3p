@@ -79,7 +79,7 @@ li {
 }
 
 @media screen and (max-width: 768px) {
-  /* Adjust styles for screens up to 768px wide */
+ 
   header h1 {
     font-size: 1.5rem;
   }
